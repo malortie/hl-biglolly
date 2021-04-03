@@ -224,12 +224,8 @@ int CHudHealth::Draw(float flTime)
 
 		int iHeight = gHUD.m_iFontHeight;
 		int iWidth = HealthWidth/10;
-#if defined ( BIGLOLLY_CLIENT_DLL )
 		UnpackRGB(r, g, b, RGB_YELLOWISH );
 		FillRGBA(x, y, iWidth, iHeight, r, g, b, a);
-#else
-		FillRGBA(x, y, iWidth, iHeight, 255, 160, 0, a);
-#endif
 	}
 
 	DrawDamage(flTime);
