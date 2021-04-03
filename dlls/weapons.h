@@ -116,7 +116,7 @@ public:
 #define HANDGRENADE_MAX_CARRY	6
 #define SATCHEL_MAX_CARRY		5
 #define TRIPMINE_MAX_CARRY		5
-#define SNARK_MAX_CARRY			15
+#define SNARK_MAX_CARRY			12
 #define HORNET_MAX_CARRY		8
 #define M203_GRENADE_MAX_CARRY	10
 
@@ -154,7 +154,7 @@ public:
 #define HANDGRENADE_DEFAULT_GIVE	2
 #define SATCHEL_DEFAULT_GIVE		1
 #define TRIPMINE_DEFAULT_GIVE		1
-#define SNARK_DEFAULT_GIVE			5
+#define SNARK_DEFAULT_GIVE			3
 #define HIVEHAND_DEFAULT_GIVE		8
 
 // The amount of ammo given to a player by an ammo item.
