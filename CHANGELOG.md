@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.0.1] - 2021-04-04
+## [biglolly/1.0.1] - 2021-04-04
 
 ### Added
 
@@ -23,7 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix snark ammo values
 - Fix handgrenade ammo values
 
-## [1.0.0] - 2015-12-03
+## [biglolly/1.0.0] - 2015-12-03
 
 ### Added
 
